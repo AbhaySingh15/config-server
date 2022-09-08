@@ -6,8 +6,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
     fetch-registry: 'true'
-  datasource:
-    password: password
-    username: root
-    driver-class-name: com.mysql.cj.jdbc.Driver
+
     
